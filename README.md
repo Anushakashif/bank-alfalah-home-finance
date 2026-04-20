@@ -2,7 +2,7 @@
 
 A RAG-based (Retrieval-Augmented Generation) AI chatbot that answers customer questions about Bank Alfalah's Home Finance products — instantly, accurately, and strictly from official policy data.
 
-> **Live Demo:** [your-app-url.streamlit.app]([https://share.streamlit.io](https://anushakashif-bank-alfalah-home-finance-app-b3mnhf.streamlit.app/))
+> **Live Demo:** ([https://share.streamlit.io](https://anushakashif-bank-alfalah-home-finance-app-b3mnhf.streamlit.app/))
 
 ---
 
